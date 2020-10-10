@@ -6,10 +6,6 @@
     "node": "10.x"
   },
   "dependencies": {
-    "express": "3.x",
-    "config": "0.4.15",
-    "request": "2.9.153",
-    "newrelic": "1.9.1",
     "express": "3.0.0",
     "fs-extra": "8.0.1",
     "puppeteer": "1.9.0",
